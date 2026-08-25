@@ -1,141 +1,177 @@
 <div align="center">
 
-Daniels Kuzmins
+# Hi, I'm Daniels Kuzmins 👋
 
-Fullstack JavaScript Developer in progress
+### Fullstack JavaScript Developer in Progress
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&center=true&vCenter=true&width=650&lines=JavaScript+%E2%86%92+Node.js+%E2%86%92+Backend;Building+things+to+understand+how+they+work;Code.+Train.+Improve.+Repeat.)](https://git.io/typing-svg)
 
+**Fullstack JavaScript @ NTI Gymnasiet, Stockholm 🇸🇪**
 
-📍 Stockholm, Sweden
-🎓 Fullstack JavaScript @ NTI Gymnasiet
-💪 Competitive Armwrestler
+Backend-focused • APIs • Databases • JavaScript
 
 </div>
 
-$ whoami
+---
 
+## 👨‍💻 About Me
+
+I'm currently studying **Fullstack JavaScript Development** at **NTI Gymnasiet in Stockholm**, working toward my Gymnasieingenjör qualification.
+
+I enjoy fullstack development, but I'm especially interested in what happens **behind the interface** — backend logic, APIs, databases and application architecture.
+
+I learn best by building things myself, understanding why they work, breaking them and figuring out how to improve them.
+
+```js
 const daniel = {
-  role: "Fullstack JavaScript Student",
-  prefers: "Backend > Frontend",
-  basedIn: "Stockholm",
-  interests: [
+  location: "Stockholm, Sweden",
+  education: "Fullstack JavaScript – Gymnasieingenjör",
+
+  focus: [
     "Backend Development",
-    "APIs",
+    "REST APIs",
     "Databases",
     "Application Architecture"
   ],
-  currentlyExploring: [
+
+  currentlyLearning: [
+    "JavaScript",
     "Node.js",
     "TypeScript",
-    "PostgreSQL",
-    "Docker"
+    "PostgreSQL"
   ],
-  goal: "Software Development Internship — Spring 2027",
+
+  internship: "Spring 2027",
+  outsideCode: "Competitive Armwrestling 💪"
 };
+```
 
-I like understanding what actually happens behind an application:
+---
 
-how data moves, how APIs communicate, how authentication works and how different pieces of a system fit together.
+## 🛠️ Tech Stack
 
-I learn best by building something, breaking it, figuring out why it broke, and rebuilding it properly.
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,ts,python" />
+    </td>
+  </tr>
 
-$ tech_stack
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite" />
+    </td>
+  </tr>
 
-Languages
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express" />
+    </td>
+  </tr>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python" />
-</p>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+    </td>
+  </tr>
 
-Frontend
+  <tr>
+    <td><strong>Tools & DevOps</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite" />
-</p>
+### Concepts
 
-Backend
+`REST APIs` • `SQL` • `Authentication` • `Authorization` • `Responsive Design` • `Git` • `Agile` • `Scrum`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+---
 
-Databases
+## 🎯 Current Focus
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
+Right now I'm focused on strengthening the fundamentals needed to build complete applications independently.
 
-Tools & DevOps
+```text
+JavaScript
+    ↓
+Node.js & Express
+    ↓
+REST API Design
+    ↓
+PostgreSQL
+    ↓
+TypeScript
+    ↓
+Authentication & Authorization
+    ↓
+Testing
+    ↓
+Docker
+```
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
-</p>
+The goal isn't to collect as many technologies as possible.
 
-Concepts
+It's to understand the tools I use well enough to **build, debug and explain my own applications**.
 
-REST APIs • SQL • Authentication • Authorization • Responsive Design • Git • Agile • Scrum
+---
 
-$ current_focus
+## 🚀 Projects
 
-01. JavaScript fundamentals
-02. Node.js & Express
-03. REST API design
-04. PostgreSQL
-05. TypeScript
-06. Authentication & authorization
-07. Testing
-08. Docker
+I'm gradually building projects where I can take responsibility for the entire application instead of only following tutorials.
 
-The objective isn't to collect technologies.
+I'm especially interested in projects involving:
 
-It's to understand enough of them to build software without blindly following a tutorial.
+- Backend-heavy fullstack applications
+- REST APIs
+- Authentication and authorization
+- Relational databases
+- Real-world application logic
+- Frontend ↔ backend communication
 
-$ projects
+For me, a finished project isn't just something that works.
 
-I'm gradually replacing tutorial-sized projects with applications that solve actual problems.
+I want to be able to explain **how it works and why I built it that way**.
 
-Expect projects involving:
+---
 
-backend-heavy fullstack applications
-
-REST APIs
-
-authentication & authorization
-
-relational databases
-
-real-world business logic
-
-The interesting part isn't just whether the application works.
-
-It's whether I can explain why it works.
-
-$ github_stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dannio258&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dannio258&show_icons=true&hide_border=true&theme=transparent" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannio258&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
-$ outside_code
+---
 
-When I'm not programming, I'm usually training.
+## 💪 Outside Development
 
-I compete in armwrestling, where progress comes from repeatedly analyzing technique, finding weaknesses and improving them.
+When I'm not coding, a large part of my time goes into **training and competitive armwrestling**.
 
-Programming isn't that different.
+It involves a surprisingly similar process to programming:
 
-analyse → practice → fail → adjust → repeat
+```text
+Analyse → Practice → Fail → Adjust → Repeat
+```
+
+Find weaknesses, understand what caused them and keep improving.
+
+---
 
 <div align="center">
 
-Contact
+## 🤝 Let's Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniels_Kuzmins-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniels-kuzmins-510a6a307/)
 
-
-Open to software development internship opportunities — Spring 2027
+**Open to software development internship opportunities in Stockholm — Spring 2027**
 
 </div>
