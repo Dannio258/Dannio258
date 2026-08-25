@@ -1,117 +1,141 @@
 <div align="center">
 
-# Hi, I'm Daniels Kuzmins 👋
+Daniels Kuzmins
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=22\&pause=1000\&center=true\&vCenter=true\&width=650\&lines=Fullstack+JavaScript+Student;Backend+Development+%3E+UI+Design;Learning+by+building+real+projects;Building+code.+Building+strength.)](https://git.io/typing-svg)
+Fullstack JavaScript Developer in progress
 
-**Gymnasieingenjör student @ NTI Gymnasiet, Stockholm 🇸🇪**
 
-Backend-focused • JavaScript • Node.js • APIs • Databases
+
+📍 Stockholm, Sweden
+🎓 Fullstack JavaScript @ NTI Gymnasiet
+💪 Competitive Armwrestler
 
 </div>
 
----
+$ whoami
 
-## 👨‍💻 About Me
-
-I'm currently studying **Fullstack JavaScript Development** at **NTI Gymnasiet in Stockholm**, working toward my Gymnasieingenjör qualification in June 2027.
-
-I enjoy fullstack development, but I'm particularly interested in what happens **behind the interface** — backend logic, APIs, databases and application architecture.
-
-Right now I'm focused on strengthening my JavaScript fundamentals and gradually building projects that I can fully understand, explain and develop independently.
-
-```js
-const daniels = {
-    location: "Stockholm, Sweden",
-    education: "Fullstack JavaScript – Gymnasieingenjör",
-    focus: ["Backend Development", "REST APIs", "Databases"],
-    currentlyLearning: ["JavaScript", "Node.js", "TypeScript", "SQL"],
-    internship: "Spring 2027",
-    outsideCode: "Competitive Armwrestling 💪"
+const daniel = {
+  role: "Fullstack JavaScript Student",
+  prefers: "Backend > Frontend",
+  basedIn: "Stockholm",
+  interests: [
+    "Backend Development",
+    "APIs",
+    "Databases",
+    "Application Architecture"
+  ],
+  currentlyExploring: [
+    "Node.js",
+    "TypeScript",
+    "PostgreSQL",
+    "Docker"
+  ],
+  goal: "Software Development Internship — Spring 2027",
 };
-```
 
----
+I like understanding what actually happens behind an application:
 
-## 🛠️ Tech
+how data moves, how APIs communicate, how authentication works and how different pieces of a system fit together.
 
-### Comfortable with
+I learn best by building something, breaking it, figuring out why it broke, and rebuilding it properly.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+$ tech_stack
 
-### Working with & learning
+Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,nextjs,vite,postgres,mongodb,docker,git,github,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python" />
 </p>
 
-### Development concepts
+Frontend
 
-`REST APIs` • `SQL` • `Responsive Design` • `Git` • `Agile` • `Scrum`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite" />
+</p>
 
----
+Backend
 
-## 🚀 What I'm Working Towards
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-My current goal is to become confident building complete applications with a strong backend foundation.
+Databases
 
-I'm particularly interested in developing my skills in:
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
 
-* Node.js & Express
-* TypeScript
-* REST API design
-* PostgreSQL & relational databases
-* Authentication & authorization
-* Backend architecture
-* Docker
-* Testing
+Tools & DevOps
 
-I'm also building my portfolio in preparation for a **software development internship in Stockholm in spring 2027**.
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+</p>
 
----
+Concepts
 
-## 📌 Projects
+REST APIs • SQL • Authentication • Authorization • Responsive Design • Git • Agile • Scrum
 
-> Projects are currently in development.
+$ current_focus
 
-I'm focusing on building a smaller number of projects that I can **understand deeply and explain confidently**, rather than filling my profile with projects for the sake of quantity.
+01. JavaScript fundamentals
+02. Node.js & Express
+03. REST API design
+04. PostgreSQL
+05. TypeScript
+06. Authentication & authorization
+07. Testing
+08. Docker
 
-My upcoming work will focus primarily on backend-heavy fullstack applications using JavaScript and TypeScript.
+The objective isn't to collect technologies.
 
----
+It's to understand enough of them to build software without blindly following a tutorial.
 
-## 📊 GitHub
+$ projects
+
+I'm gradually replacing tutorial-sized projects with applications that solve actual problems.
+
+Expect projects involving:
+
+backend-heavy fullstack applications
+
+REST APIs
+
+authentication & authorization
+
+relational databases
+
+real-world business logic
+
+The interesting part isn't just whether the application works.
+
+It's whether I can explain why it works.
+
+$ github_stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dannio258&show_icons=true&hide_border=true&theme=transparent" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dannio258&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannio258&layout=compact&hide_border=true&theme=transparent" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannio258&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
----
+$ outside_code
 
-## ⚡ Outside Development
+When I'm not programming, I'm usually training.
 
-When I'm not coding, a large part of my time goes into **training and competitive armwrestling**.
+I compete in armwrestling, where progress comes from repeatedly analyzing technique, finding weaknesses and improving them.
 
-Different field, similar mindset:
+Programming isn't that different.
 
-**Consistency → analysis → progression.**
-
----
+analyse → practice → fail → adjust → repeat
 
 <div align="center">
 
-### Let's connect
+Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniels_Kuzmins-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/daniels-kuzmins-510a6a307/)
 
-<br>
 
-<sub>Backend-focused Fullstack JavaScript student • Stockholm 🇸🇪</sub>
+Open to software development internship opportunities — Spring 2027
 
 </div>
