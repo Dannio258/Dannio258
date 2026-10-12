@@ -4,7 +4,7 @@
 
 ### Fullstack JavaScript Developer in Progress
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&center=true&vCenter=true&width=650&lines=JavaScript+%E2%86%92+React+%E2%86%92+Node.js;Building+things+to+understand+how+they+work;Code.+Train.+Improve.+Repeat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&center=true&vCenter=true&width=650&lines=TypeScript+%E2%86%92+React+%E2%86%92+Node.js;Building+things+to+understand+how+they+work;Code.+Train.+Improve.+Repeat.)](https://git.io/typing-svg)
 
 **Fullstack JavaScript @ NTI Gymnasiet, Stockholm 🇸🇪**
 
