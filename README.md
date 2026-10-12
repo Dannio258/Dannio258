@@ -4,11 +4,11 @@
 
 ### Fullstack JavaScript Developer in Progress
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&center=true&vCenter=true&width=650&lines=JavaScript+%E2%86%92+Node.js+%E2%86%92+Backend;Building+things+to+understand+how+they+work;Code.+Train.+Improve.+Repeat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&center=true&vCenter=true&width=650&lines=JavaScript+%E2%86%92+React+%E2%86%92+Node.js;Building+things+to+understand+how+they+work;Code.+Train.+Improve.+Repeat.)](https://git.io/typing-svg)
 
 **Fullstack JavaScript @ NTI Gymnasiet, Stockholm 🇸🇪**
 
-Backend-focused • APIs • Databases • JavaScript
+Fullstack-focused • Frontend • Backend • TypeScript
 
 </div>
 
@@ -18,7 +18,7 @@ Backend-focused • APIs • Databases • JavaScript
 
 I'm currently studying **Fullstack JavaScript Development** at **NTI Gymnasiet in Stockholm**, working toward my Gymnasieingenjör qualification.
 
-I enjoy fullstack development, but I'm especially interested in what happens **behind the interface** — backend logic, APIs, databases and application architecture.
+I enjoy **fullstack development** — building user interfaces, working with backend logic, APIs and databases, and understanding how everything connects into a complete application.
 
 I learn best by building things myself, understanding why they work, breaking them and figuring out how to improve them.
 
@@ -27,8 +27,9 @@ const daniel = {
   location: "Stockholm, Sweden",
   education: "Fullstack JavaScript – Gymnasieingenjör",
 
-  focus: [
-    "Backend Development",
+    focus: [
+    "Fullstack Development",
+    "User Interfaces",
     "REST APIs",
     "Databases",
     "Application Architecture"
@@ -36,6 +37,7 @@ const daniel = {
 
   currentlyLearning: [
     "JavaScript",
+    "React",
     "Node.js",
     "TypeScript",
     "PostgreSQL"
@@ -127,7 +129,8 @@ I'm gradually building projects where I can take responsibility for the entire a
 
 I'm especially interested in projects involving:
 
-- Backend-heavy fullstack applications
+- Fullstack applications
+- Responsive and user-friendly interfaces
 - REST APIs
 - Authentication and authorization
 - Relational databases
